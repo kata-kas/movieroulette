@@ -1,0 +1,6 @@
+export enum AppState {
+  LANDING = 'LANDING',
+  PICKING_MOVIE = 'PICKING_MOVIE',
+  LOBBY = 'LOBBY',
+  SESSION = 'SESSION',
+}
